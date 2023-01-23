@@ -1,0 +1,2 @@
+# StartingPoint
+Starting with git
